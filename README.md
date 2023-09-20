@@ -1,9 +1,9 @@
 # Ashiq Ali
 
-[![GitHub followers](https://img.shields.io/github/followers/ashiqali?style=social)](https://github.com/ashiqali)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+[![GitHub followers](https://img.shields.io/github/followers/ashiqali?style=social)](https://github.com/Ashiq-Ali-sheikh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/Moizkhan465)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashiq-ali-full-stack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://ashiq-ali-portfolio.vercel.app/)
 
 Hi there! 👋 I'm Ashiq Ali, a passionate MERN Stack Developer with 2 years of experience from Pakistan. Welcome to my GitHub profile.
 
@@ -30,7 +30,7 @@ I'm proficient in a variety of technologies and tools, including:
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a friendly chat. Feel free to reach out to me on [Twitter](https://twitter.com/your-twitter) or [LinkedIn](https://www.linkedin.com/in/ashiq-ali/).
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a friendly chat. Feel free to reach out to me on [Twitter](https://twitter.com/Moizkhan465) or [LinkedIn](https://www.linkedin.com/in/ashiq-ali-full-stack).
 
 ## Support Me
 
