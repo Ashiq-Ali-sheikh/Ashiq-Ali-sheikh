@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ashiqali?style=social)](https://github.com/ashiqali)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashiq-ali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashiq-ali-full-stack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://your-portfolio.com)
 
 Hi there! 👋 I'm Ashiq Ali, a passionate MERN Stack Developer with 2 years of experience from Pakistan. Welcome to my GitHub profile.
